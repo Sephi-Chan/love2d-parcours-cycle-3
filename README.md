@@ -8,7 +8,7 @@ Liste des missions
 - Mission 1. Créer les premiers fichiers de ton jeu et l'exécuter
 - Mission 2. Dessiner des rectangles et des cercles à l'écran
 - Défi 1. Dessiner le drapeau français
-- Défi 2. Dessiner la cocarde française.
+- Défi 2. Dessiner la cocarde française
 - Mission 3. Ecrire du texte à l'écran
 - Mission 4. Afficher et masquer un rectangle à l'écran en appuyant sur une touche du clavier
 - Mission 5. Afficher un cercle là où je clique
