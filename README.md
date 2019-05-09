@@ -10,11 +10,12 @@ Liste des missions
 - Défi 1. Dessiner le drapeau français
 - Défi 2. Dessiner la cocarde française
 - Mission 3. Ecrire du texte à l'écran
-- Mission 4. Afficher et masquer un rectangle à l'écran en appuyant sur une touche du clavier
-- Mission 5. Afficher un cercle là où je clique
-- Mission 6. Déplacer un rectangle à l'écran en appuyant sur les touches du clavier
-- Mission 7. Empêcher le rectangle de sortir de l'écran quand on le déplace
-- Mission 8. Déplacer un cercle de haut en bas de l'écran au fil du temps
-- Mission 9. Faire apparaître le cercle à un endroit aléatoire
-- Mission 10. Arrêter le jeu quand le cercle touche le rectangle
-- Mission 11. Déplacer un autre cercle à l'écran une fois le premier touché par le rectangle
+- Mission 4. Afficher un rectangle au milieu de l'écran
+- Mission 5. Afficher et masquer un rectangle à l'écran en appuyant sur une touche du clavier
+- Mission 6. Afficher un cercle là où je clique
+- Mission 7. Déplacer un rectangle à l'écran en appuyant sur les touches du clavier
+- Mission 8. Empêcher le rectangle de sortir de l'écran quand on le déplace
+- Mission 9. Déplacer un cercle de haut en bas de l'écran au fil du temps
+- Mission 10. Faire apparaître le cercle à un endroit aléatoire
+- Mission 11. Arrêter le jeu quand le cercle touche le rectangle
+- Mission 12. Déplacer un autre cercle à l'écran une fois le premier touché par le rectangle
